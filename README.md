@@ -10,7 +10,7 @@
 </p>
 
 ### About Me
-- 🎓 I’m currently a 2nd-year Software Engineering undergraduate.
+- 🎓 Final year Software Engineering undergraduate.
 - 💼 Nearly 2 years of experience in the banking sector working with complex Desktop systems.
 - 🚀 Aspiring Full Stack Developer with a strong foundation in Web, Mobile, and Desktop development, including a deep interest in FinTech.
 
